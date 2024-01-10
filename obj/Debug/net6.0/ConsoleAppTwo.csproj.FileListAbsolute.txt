@@ -12,3 +12,4 @@ E:\phase3\Day4\ConsoleAppTwo\ConsoleAppTwo\obj\Debug\net6.0\refint\ConsoleAppTwo
 E:\phase3\Day4\ConsoleAppTwo\ConsoleAppTwo\obj\Debug\net6.0\ConsoleAppTwo.pdb
 E:\phase3\Day4\ConsoleAppTwo\ConsoleAppTwo\obj\Debug\net6.0\ConsoleAppTwo.genruntimeconfig.cache
 E:\phase3\Day4\ConsoleAppTwo\ConsoleAppTwo\obj\Debug\net6.0\ref\ConsoleAppTwo.dll
+E:\phase3\Day4\ConsoleAppTwo\ConsoleAppTwo\obj\Debug\net6.0\ConsoleAppTwo.sourcelink.json
